@@ -67,14 +67,10 @@ Sustainable solar lighting e-commerce site.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## 🌐 Connect with me
 
-<div align="center">
-
 <a href="https://linkedin.com/in/benicio-pacheco"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
 <a href="mailto:pacheco.benicio@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
-
-</div>
