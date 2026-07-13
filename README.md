@@ -57,6 +57,12 @@ Sustainable solar lighting e-commerce site.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=benipach&theme=dark&hide_border=true&background=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=benipach&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=benipach&theme=default&hide_border=true" />
+</picture>
 </div>
 
 ## 🌐 Connect with me
