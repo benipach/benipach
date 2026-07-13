@@ -20,19 +20,13 @@
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-<br><br>
-
 **Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=java,cs,python,nodejs" />
 
-<br><br>
-
 **Databases**
 <br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-<br><br>
 
 **Tools**
 <br>
