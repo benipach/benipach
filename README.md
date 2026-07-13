@@ -4,16 +4,16 @@ Full Stack Developer in training · Computer Science technical student (ET N°35
 ## 💻 Stack
 
 **Frontend**
-<img src="assets/html5.svg" width="40" /> <img src="assets/css3.svg" width="40" /> <img src="assets/javascript.svg" width="40" /> <img src="assets/react.svg" width="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 **Backend**
-<img src="assets/java.svg" width="40" /> <img src="assets/csharp.svg" width="40" /> <img src="assets/python.svg" width="40" /> <img src="assets/nodejs.svg" width="40" /> <img src="assets/rest-api.svg" width="40" />
+<img src="https://skillicons.dev/icons?i=java,cs,python,nodejs" />
 
 **Databases**
-<img src="assets/mysql.svg" width="40" /> <img src="assets/postgresql.svg" width="40" /> <img src="assets/sqlserver.svg" width="40" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 **Tools**
-<img src="assets/git.svg" width="40" /> <img src="assets/github.svg" width="40" /> <img src="assets/gitlab.svg" width="40" /> <img src="assets/postman.svg" width="40" /> <img src="assets/vscode.svg" width="40" /> <img src="assets/eclipse.svg" width="40" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse" />
 
 ## 🚀 Projects
 
