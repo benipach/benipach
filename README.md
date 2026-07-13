@@ -24,30 +24,12 @@
 
 ## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### [🏎️ Formula 1 Hub](https://benipach.github.io/f1-hub-project)
-Dynamic F1 website with live standings and race calendar.
-
-`HTML` `CSS` `JavaScript` `REST API`
-
-[🔗 Live](https://benipach.github.io/f1-hub-project) · [📂 Repo](https://github.com/benipach/f1-hub-project)
-
-</td>
-<td width="50%">
-
-### [☀️ EcoLuz](https://benipach.github.io/Ecoluz)
-Sustainable solar lighting e-commerce site.
-
-`HTML` `CSS`
-
-[🔗 Live](https://benipach.github.io/Ecoluz) · [📂 Repo](https://github.com/benipach/Ecoluz)
-
-</td>
-</tr>
-</table>
+| ![Formula 1 Hub](https://benipach.github.io/portfolio/img/projects/f1hub-bg.webp) | ![EcoLuz](https://benipach.github.io/portfolio/img/projects/ecoluz-bg.webp) |
+|:---:|:---:|
+| ### 🏎️ [Formula 1 Hub](https://benipach.github.io/f1-hub-project) | ### ☀️ [EcoLuz](https://benipach.github.io/Ecoluz) |
+| Dynamic F1 website with live standings and race calendar. | Sustainable solar lighting e-commerce site. |
+| `HTML` `CSS` `JavaScript` `REST API` | `HTML` `CSS` |
+| [🔗 Live](https://benipach.github.io/f1-hub-project) · [📂 Repo](https://github.com/benipach/f1-hub-project) | [🔗 Live](https://benipach.github.io/Ecoluz) · [📂 Repo](https://github.com/benipach/Ecoluz) |
 
 ## 🐍 Contribution Snake
 
