@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Benicio%20Pacheco&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20training&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Benicio%20Pacheco&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
 <a href="https://github.com/benipach"></a>
 
@@ -58,7 +58,6 @@ Sustainable solar lighting e-commerce site.
 
 `HTML` `CSS`
 
-
 [🔗 Live](https://benipach.github.io/Ecoluz) · [📂 Repo](https://github.com/benipach/Ecoluz)
 
 </td>
@@ -75,10 +74,7 @@ Sustainable solar lighting e-commerce site.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benipach)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benicio-pacheco)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pacheco.benicio@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=benipach&color=blue&style=for-the-badge)
+<a href="https://linkedin.com/in/benicio-pacheco"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+<a href="mailto:pacheco.benicio@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
 
 </div>
