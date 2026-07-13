@@ -35,7 +35,7 @@
 
 **Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,sublime" />
 
 </td>
 </tr>
