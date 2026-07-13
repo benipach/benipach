@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Benicio%20Pacheco&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benipach/benipach/main/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benipach/benipach/main/header-light.svg" />
+  <img alt="header" src="https://raw.githubusercontent.com/benipach/benipach/main/header-light.svg" />
+</picture>
 
 <a href="https://github.com/benipach"></a>
 
@@ -67,7 +71,11 @@ Sustainable solar lighting e-commerce site.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ## 🌐 Connect with me
