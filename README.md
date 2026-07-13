@@ -14,25 +14,13 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+| 🎨 Frontend | ⚙️ Backend |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=java,cs,python,nodejs" /> |
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=java,cs,python,nodejs" />
-
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,sublime" />
-
-</div>
+| 🗄️ Databases | 🛠️ Tools |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,sublime" /> |
 
 ## 🚀 Projects
 
