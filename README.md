@@ -2,9 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Benicio%20Pacheco&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20training&descAlignY=55&descSize=18)
 
-<a href="https://github.com/benipach">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+student+%40+ET+N%C2%B035;Building+Formula+1+Hub+%F0%9F%8F%8E%EF%B8%8F;Learning+React+%26+Node.js" />
-</a>
+<a href="https://github.com/benipach"></a>
 
 </div>
 
@@ -60,28 +58,12 @@ Sustainable solar lighting e-commerce site.
 
 `HTML` `CSS`
 
+
 [🔗 Live](https://benipach.github.io/Ecoluz) · [📂 Repo](https://github.com/benipach/Ecoluz)
 
 </td>
 </tr>
 </table>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=benipach&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benipach&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=benipach&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=benipach&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</div>
 
 ## 🐍 Contribution Snake
 
