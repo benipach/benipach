@@ -9,7 +9,7 @@
 
 ## 🚀 Projects that I'm working on
 
-**- [F1 Hub](https://github.com/benipach/f1-hub-project)**: Dynamic F1 website with live standings and race calendar.
+- **[F1 Hub](https://github.com/benipach/f1-hub-project)**: Dynamic F1 website with live standings and race calendar.
 
 ## 📊 GitHub Stats
 <picture>
