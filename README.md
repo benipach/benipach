@@ -1,17 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benipach/benipach/main/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benipach/benipach/main/header-light.svg" />
-  <img alt="header" src="https://raw.githubusercontent.com/benipach/benipach/main/header-light.svg" />
-</picture>
-
-<a href="https://github.com/benipach"></a>
-
-</div>
-
-<br>
-
 ## 💻 Tech Stack
 
 | 🎨 Frontend | ⚙️ Backend |
@@ -22,24 +8,13 @@
 |:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,sublime" /> |
 
-## 🚀 Projects
+## 🚀 Projects that I'm working on
 
-| <img src="https://benipach.github.io/portfolio/img/projects/f1hub-bg.webp" width="380" /> | <img src="https://benipach.github.io/portfolio/img/projects/ecoluz-bg.webp" width="380" /> |
-|:---:|:---:|
-| **🏎️ [Formula 1 Hub](https://benipach.github.io/f1-hub-project)** | **☀️ [EcoLuz](https://benipach.github.io/Ecoluz)** |
-| Dynamic F1 website with live standings and race calendar. | Sustainable solar lighting e-commerce site. |
-| `HTML` `CSS` `JavaScript` `REST API` | `HTML` `CSS` |
-| [🔗 Live](https://benipach.github.io/f1-hub-project) · [📂 Repo](https://github.com/benipach/f1-hub-project) | [🔗 Live](https://benipach.github.io/Ecoluz) · [📂 Repo](https://github.com/benipach/Ecoluz) |
+**🏎️ [F1 Hub](https://benipach.github.io/f1-hub-project)**: *Dynamic F1 website with live standings and race calendar.*
+`HTML` `CSS` `JavaScript` `REST API` — [🔗 Live](https://benipach.github.io/f1-hub-project) · [📂 Repo](https://github.com/benipach/f1-hub-project)
 
-## 🐍 Contribution Snake
-
+## 📊 GitHub Stats
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/benipach/benipach/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=benipach&theme=dark&hide_border=true&background=00000000" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=benipach&theme=default&hide_border=true" />
