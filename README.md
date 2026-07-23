@@ -1,16 +1,15 @@
 ## 💻 Tech Stack
+| 🎨 Frontend | ⚙️ Backend | 🗄️ Databases |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=java,cs,python,nodejs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
 
-| 🎨 Frontend | ⚙️ Backend |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=java,cs,python,nodejs" /> |
-
-| 🗄️ Databases | 🛠️ Tools |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,sublime" /> |
+| 🛠️ Tools |
+|:---:|
+| <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,sublime,eclipse" /> |
 
 ## 🚀 Projects that I'm working on
 
-**🏎️ [F1 Hub](https://github.com/benipach/f1-hub-project)**: *Dynamic F1 website with live standings and race calendar.*
+**- [F1 Hub](https://github.com/benipach/f1-hub-project)**: Dynamic F1 website with live standings and race calendar.
 
 ## 📊 GitHub Stats
 <picture>
