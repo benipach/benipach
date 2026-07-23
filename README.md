@@ -11,6 +11,8 @@
 
 - **[F1 Hub](https://github.com/benipach/f1-hub-project)**: Dynamic F1 website with live standings and race calendar.
 
+- **[Sin Códigos](https://github.com/benipach/sin-codigos)**: 2D LAN co-op game, Java/LibGDX, client-server via TCP/UDP.
+
 ## 🔨 Projects that u should take a peek at
 
 - **[Portfolio](https://github.com/benipach/portfolio)**: Personal portfolio website.
