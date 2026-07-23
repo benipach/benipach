@@ -10,17 +10,14 @@
 
 ## 🚀 Projects that I'm working on
 
-**🏎️ [F1 Hub](https://benipach.github.io/f1-hub-project)**: *Dynamic F1 website with live standings and race calendar.*
-`HTML` `CSS` `JavaScript` `REST API` — [🔗 Live](https://benipach.github.io/f1-hub-project) · [📂 Repo](https://github.com/benipach/f1-hub-project)
+**🏎️ [F1 Hub](https://github.com/benipach/f1-hub-project)**: *Dynamic F1 website with live standings and race calendar.*
 
 ## 📊 GitHub Stats
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=benipach&theme=dark&hide_border=true&background=00000000" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=benipach&theme=default&hide_border=true" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=benipach&theme=default&hide_border=true" />
 </picture>
-</div>
 
 ## 🌐 Connect with me
 
