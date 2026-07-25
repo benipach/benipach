@@ -1,3 +1,5 @@
+## Hi there 👋
+
 ## 💻 Tech Stack
 | 🎨 Frontend | ⚙️ Backend | 🗄️ Databases |
 |:---:|:---:|:---:|
@@ -30,7 +32,7 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=benipach&theme=default&hide_border=true" />
 </picture>
 
-## 🌐 Connect with me
+## 🌐 Contact me
 
 <a href="https://linkedin.com/in/benicio-pacheco"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
 <a href="mailto:pacheco.benicio@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
