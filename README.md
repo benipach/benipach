@@ -1,13 +1,13 @@
 # Hi there, I'm Benicio Pacheco 👋
 
 ## 💻 Tech Stack
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Databases |
+| 🎨 Frontend | ⚙️ Languages | 🗄️ Data |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=java,cs,python,nodejs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=java,cs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br><sub>+ SQL Server · REST APIs</sub> |
 
 | 🛠️ Tools |
 |:---:|
-| <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,sublime,eclipse" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,eclipse" /><br><sub>+ Claude Code</sub> |
 
 ## 🔭 I’m currently working on
 
