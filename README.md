@@ -2,7 +2,7 @@
 
 Software developer from Buenos Aires, Argentina (UTC−3) · **Available for part-time remote work (20 h/week)**
 
-🌐 **[benipach.github.io/portfolio](https://benipach.github.io/portfolio/)**
+🌐 **[benipach.dev](https://benipach.dev/)**
 
 ## 💻 Tech Stack
 | ⚙️ Languages | 🎨 Web | 🗄️ Databases | 🛠️ Tools |
