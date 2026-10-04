@@ -1,29 +1,29 @@
 # Hi there, I'm Benicio Pacheco 👋
 
+Software developer from Buenos Aires, Argentina (UTC−3) · **Available for part-time remote work (20 h/week)**
+
+🌐 **[benipach.github.io/portfolio](https://benipach.github.io/portfolio/)**
+
 ## 💻 Tech Stack
-| 🎨 Frontend | ⚙️ Languages | 🗄️ Data |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=java,cs" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br><sub>+ SQL Server · REST APIs</sub> |
+| ⚙️ Languages | 🎨 Web | 🗄️ Databases | 🛠️ Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=js,java" /><br><sub>+ SQL</sub> | <img src="https://skillicons.dev/icons?i=html,css,nodejs" /><br><sub>+ REST APIs</sub> | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,githubactions" /> |
 
-| 🛠️ Tools |
-|:---:|
-| <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,eclipse" /><br><sub>+ Claude Code</sub> |
+## ⭐ Featured
 
-## 🔭 I’m currently working on
+- **[F1 Hub](https://github.com/benipach/f1-hub-project)** *(in progress)*: Formula 1 website with live timing streamed from F1's official feed through a Node.js relay, plus results that update automatically with GitHub Actions. [Live site ↗](https://benipach.github.io/f1-hub-project)
 
-- **[F1 Hub](https://github.com/benipach/f1-hub-project)**: Dynamic F1 website with live standings and race calendar.
+## 🔨 Other projects
 
-- **[Sin Códigos](https://github.com/benipach/sin-codigos)**: 2D LAN co-op game, Java/LibGDX, client-server via TCP/UDP.
+- **[Sin Códigos](https://github.com/benipach/sin-codigos)** *(in progress)*: 2D LAN co-op game, Java/LibGDX, client-server via TCP/UDP.
 
-## 🔨 Projects that u should take a peek at
+- **[School database](https://github.com/benipach/bd-escuela)**: MySQL database for a technical school, with triggers, stored procedures, views and role-based permissions. Built by a team of five.
 
-- **[Portfolio](https://github.com/benipach/portfolio)**: Personal portfolio website.
+- **[EcoLuz](https://github.com/benipach/Ecoluz)**: Online store for a portable solar lamp, built with HTML and CSS.
 
-- **[F1 Hub](https://github.com/benipach/f1-hub-project)**: Dynamic F1 website with live standings and race calendar.
+- **[2024 F1 season database](https://github.com/benipach/bd-f1-2024)**: MySQL database of the 2024 Formula 1 season, normalized to third normal form.
 
-- **[EcoLuz](https://github.com/benipach/Ecoluz)**: Sustainable solar lighting e-commerce site.
-
-- **[Sin Códigos](https://github.com/benipach/sin-codigos)**: 2D LAN co-op game, Java/LibGDX, client-server via TCP/UDP.
+- **[Portfolio](https://github.com/benipach/portfolio)**: My personal website, built with vanilla HTML, CSS and JavaScript, in English and Spanish.
 
 ## 📊 GitHub Stats
 <picture>
