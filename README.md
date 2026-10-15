@@ -27,9 +27,7 @@ Software developer from Buenos Aires, Argentina (UTC−3) · **Available for par
 
 ## 📊 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=benipach&theme=dark&hide_border=true&background=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=benipach&theme=default&hide_border=true" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=benipach&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=benipach&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </picture>
 
 ## 🌐 Contact me
